@@ -1,5 +1,7 @@
 # Terramino Demo App — Vagrant Setup
 
+> **Attribution:** This code is based on the [HashiCorp Education](https://github.com/hashicorp-education) curriculum. The Terramino application source can be found at [hashicorp-education/terramino-go](https://github.com/hashicorp-education/terramino-go).
+
 This repository contains a Vagrant-based local development environment for the [Terramino](https://github.com/hashicorp-education/terramino-go) demo app — a containerized Go application managed with Docker Compose.
 
 ---
